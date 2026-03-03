@@ -1,8 +1,19 @@
 <p align="center">
-  <img src="https://brrdcast.com/brrdcast-logo.png" alt="Brrdcast Logo" width="240" />
+  <img src="logo.png" alt="Brrdcast Logo" width="220" />
 </p>
 
-### The Intelligence Layer Between the Internet and the Real World.
+<p align="center">
+  <img src="nvidia-inception-program-badge-rgb.svg" 
+       alt="NVIDIA Inception Program Member" 
+       width="180"/>
+</p>
+
+<h1 align="center">Brrdcast</h1>
+<p align="center">
+  <strong>The Intelligence Layer Between the Internet and the Real World</strong>
+</p>
+
+---
 
 Search understands the web.  
 But the offline world — local businesses, availability, services, real-time ground truth — remains fragmented, unstructured, and invisible to AI.
@@ -24,19 +35,17 @@ A new paradigm that combines:
 
 Brrdcast is designed as long-term infrastructure for real-world intelligence.
 
-We are building:
-
 - ⚡ **Hybrid Retrieval Systems**  
   (Vector + symbolic + geo-contextual search)
 
 - 🗺 **Structured Local Knowledge Graphs**  
-  Transforming fragmented offline data into machine-readable intelligence
+  Turning fragmented offline data into machine-readable intelligence
 
 - 📡 **Real-World Signal Ingestion Pipelines**  
   Capturing availability, services, and ground-truth context
 
 - 🔐 **Privacy-First Data Architecture**  
-  Designed for trust, compliance, and long-term resilience
+  Built for trust, compliance, and long-term resilience
 
 - 🤖 **AI-Ready APIs**  
   Powering next-generation agents and discovery systems
@@ -71,8 +80,6 @@ Brrdcast is building that layer.
 ---
 
 ## 🌐 Vision
-
-We believe:
 
 - The offline world is the largest unindexed dataset in existence  
 - Hyperlocal intelligence will power the next decade of AI systems  
